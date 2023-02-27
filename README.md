@@ -4,7 +4,7 @@ A basic bmi app
 
 ## SnapShots
 Splash Screen
-![bmi_1](https://user-images.githubusercontent.com/51282485/221621901-452f5d87-e08c-41ae-b3cb-c2a20eb1ac9b.png=236x500)
+![bmi_1](https://user-images.githubusercontent.com/51282485/221621901-452f5d87-e08c-41ae-b3cb-c2a20eb1ac9b.png | width = 236 | height = 500)
 Main Screen
 ![bmi2](https://user-images.githubusercontent.com/51282485/221621985-f2414d77-9a6b-4d82-b332-03bd3aeff2a9.png)
 Main Screen 2
